@@ -62,13 +62,13 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishal1106&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sudarshan0107&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 
 
 
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1106&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan0107&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 
