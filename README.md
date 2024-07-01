@@ -8,7 +8,7 @@
 I am also an open-source enthusiast and maintainer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1106&label=Profile%20views&color=0e75b6&style=flat" alt="SudarshanNawale" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudarshan0107" alt="Sudarshan-Nawale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SudarshanNawale" alt="Sudarshan-Nawale" /></a> </p>
 
 
 
@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sudarshan0107&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SudarshanNawale&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 
 
 
