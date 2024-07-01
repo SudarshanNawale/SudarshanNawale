@@ -51,7 +51,7 @@ I am also an open-source enthusiast and maintainer.</p>
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-gholve-444b9122b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sudarshan-nawale-2a9000278/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="sudarshannawale88@gmail.com" href="mailto:sudarshannawale88@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
  
 
