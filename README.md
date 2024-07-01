@@ -68,7 +68,7 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan0107&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanNawale&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 
@@ -76,7 +76,7 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&theme=gruvbox" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SudarshanNawale&theme=gruvbox" />
 
 <br><br>
 
