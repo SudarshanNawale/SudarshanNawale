@@ -7,7 +7,7 @@
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of architecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1106&label=Profile%20views&color=0e75b6&style=flat" alt="SudarshanNawale" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudarshanNawale&label=Profile%20views&color=0e75b6&style=flat" alt="SudarshanNawale" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SudarshanNawale" alt="Sudarshan-Nawale" /></a> </p>
 
 
@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer.</p>
 ## About me
 - 🌱 I’m currently learning Data Structures, Algorithms and Data Science.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at[ https://gholve-vishal.netlify.app/](https://gholve-vishal.netlify.app/)
+- 🤔 All of my projects and details are available at
 - 💬 Ask me about <b> HTML, Python, Django, Data science, Mysql, Machine learning algorithms.</b>
 - 📫 How to reach me **sudarshannawale88@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BcqgJ3vTIZYaYQK48QWL6L_V8Wx4UgPv/view?usp=sharing">Here</a>
