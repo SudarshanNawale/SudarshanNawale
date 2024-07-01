@@ -8,12 +8,12 @@
 I am also an open-source enthusiast and maintainer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1106&label=Profile%20views&color=0e75b6&style=flat" alt="SudarshanNawale" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1106" alt="Sudarshan-Nawale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudarshan0107" alt="Sudarshan-Nawale" /></a> </p>
 
 
 
 ## About me
-- 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
+- 🌱 I’m currently learning Data Structures, Algorithms and Data Science.
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at[ https://gholve-vishal.netlify.app/](https://gholve-vishal.netlify.app/)
 - 💬 Ask me about <b> HTML, Python, Django, Data science, Mysql, Machine learning algorithms.</b>
