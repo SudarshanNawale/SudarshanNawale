@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer.</p>
 ## About me
 - 🌱 I’m currently learning Data Structures, Algorithms and Data Science.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at
+- 🤔 All of my projects and details are available at <a href="https://resplendent-melba-abd88e.netlify.app/">Here</a>
 - 💬 Ask me about <b> HTML, Python, Django, Data science, Mysql, Machine learning algorithms.</b>
 - 📫 How to reach me **sudarshannawale88@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BcqgJ3vTIZYaYQK48QWL6L_V8Wx4UgPv/view?usp=sharing">Here</a>
